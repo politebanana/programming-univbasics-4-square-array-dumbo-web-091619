@@ -1,6 +1,6 @@
 def square_array(array)
   # your code here
-  squared = []
+  new_array = []
   count = 0
   while count < array.size do
     squared << (array[count] ** 2)
